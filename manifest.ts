@@ -2,7 +2,7 @@
 
 export default {
   name: "FixPathDirections",
-  id: "1400535304101549529",
+  id: "1401164835210682874",
   api: "1.0.0",
   main: "./main.js",
   ui: "./plugin.html",

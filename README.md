@@ -1,8 +1,13 @@
+![Fix SVG Path Directions banner](figma-community-listing/banner.png)
+
 # Figma Plugin - FixPathDirections
 
 A very simple plugin to fix path directions in Figma.
 You can use your existing export config, this plugin will export files to every format to a single ZIP file.
 It will also warn if files are duplicated because they have the same name.
+
+View the plugin in the [Figma Community Store](https://www.figma.com/community/plugin/1401164835210682874/svg-auto-fix-path-directions-fill-rule)
+
 
 ### How to use the plugin
 
